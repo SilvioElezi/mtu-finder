@@ -33,7 +33,7 @@ Setting the correct MTU eliminates this overhead and can noticeably improve your
 
 ## Screenshot
 
-> *(Add a screenshot of the app here)*
+https://github.com/SilvioElezi/mtu-finder/blob/main/MTUfinderScreenshot.png
 
 ---
 
